@@ -157,3 +157,6 @@ body {
         flex: 1 1 100%;
     }
 }
+body {
+    padding-top: 64px; /* Adjust for navbar height */
+}

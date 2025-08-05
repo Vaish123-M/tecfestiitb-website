@@ -1,2 +1,0 @@
-# tecfestiitb-website
-Landing page
